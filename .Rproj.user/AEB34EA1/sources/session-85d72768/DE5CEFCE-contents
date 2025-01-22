@@ -1,0 +1,62 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "figure/",
+  fig.height = 1
+)
+```
+
+# ArtPalette 
+## Giorgio De Chirico Palette
+
+
+## Installation
+
+``` r
+devtools::install_github("billila/ArtPalette")
+```
+
+## Usage
+
+```{r, palettes_dummy}
+library("ArtPalette")
+
+# See all palettes
+names(gdc_palettes)
+```
+
+## Palettes
+
+### PiazzaDItalia
+
+```{r, PiazzaDItalia}
+gdc_palette("PiazzaDItalia")
+gdc_palette("PiazzaDItalia1939")
+```
+
+### LeMuseInquietanti
+
+```{r, LeMuseInquietanti}
+gdc_palette("LeMuseInquietanti")
+```
+
+### SoleSulCavalletto1972
+
+```{r, SoleSulCavalletto1972}
+gdc_palette("SoleSulCavalletto1972")
+```
+
+```{r, ggplot1, fig.height = 3}
+library("ggplot2")
+ggplot(mtcars, aes(factor(cyl), fill=factor(gear))) +  geom_bar() +
+  scale_fill_manual(values = gdc_palette("SoleSulCavalletto1972"))
+```

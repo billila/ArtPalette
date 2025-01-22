@@ -1,0 +1,17 @@
+Package: ArtPalette
+Type: Package
+Title: ArtPalette: palette from famous paintings
+Version: 0.1.0
+Authors@R: c(person("Ilaria", "Billato", role = c("aut", "cre"),
+    email = "ilaria.billato@phd.unipd.it"),
+    person("Michela", "Billato", role = "ctb"))
+Maintainer: The package maintainer <ilaria.billato@phd.unipd.it>
+Description: ArtPalette: palette from famous paintings. A Giorgio De Chirico color palette generator.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    ggplot2
+URL: https://github.com/billila/ArtPalette
+BugReports: https://github.com/billila/ArtPalette/issues
+RoxygenNote: 7.3.2
