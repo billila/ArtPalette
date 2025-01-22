@@ -70,3 +70,9 @@ library("ggplot2")
 ggplot(mtcars, aes(factor(cyl), fill=factor(gear))) +  geom_bar() +
   scale_fill_manual(values = gdc_palette("SoleSulCavalletto1972"))
 ```
+
+### ArrivoDelTrasloco1965
+
+```{r, ArrivoDelTrasloco1965}
+gdc_palette("ArrivoDelTrasloco1965")
+```

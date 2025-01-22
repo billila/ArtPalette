@@ -75,3 +75,11 @@ ggplot(mtcars, aes(factor(cyl), fill=factor(gear))) +  geom_bar() +
 ```
 
 ![](figure/ggplot1-1.png)
+
+### ArrivoDelTrasloco1965
+
+``` r
+gdc_palette("ArrivoDelTrasloco1965")
+```
+
+![](figure/ArrivoDelTrasloco1965-1.png)
