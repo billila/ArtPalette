@@ -17,9 +17,7 @@ characterized by eerie, dreamlike landscapes and enigmatic figures. His
 works often feature classical architecture, long shadows, and a sense of
 stillness, evoking a sense of mystery and introspection.
 
-![](figure/giorgiodechirico.jpeg)
-
-``` ![](figure/giorgiodechirico.jpeg)
+![Alt text](figure/giorgiodechirico.jpeg)
 
 ## Installation
 
