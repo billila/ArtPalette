@@ -3,7 +3,7 @@
     "path": "~/Documents/ArtPalette/README.Rmd",
     "project_path": "README.Rmd",
     "type": "r_markdown",
-    "hash": "3011638064",
+    "hash": "438005937",
     "contents": "",
     "dirty": false,
     "created": 1737520223531.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "55,0",
-        "scrollLine": "50"
+        "cursorPosition": "22,31",
+        "scrollLine": "20"
     },
     "folds": "",
-    "lastKnownWriteTime": 1737520556,
+    "lastKnownWriteTime": 1737521899,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1737520556848,
+    "last_content_update": 1737521899102,
     "read_only": false,
     "read_only_alternatives": []
 }

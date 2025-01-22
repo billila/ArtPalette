@@ -4,6 +4,16 @@
 
 ## Giorgio De Chirico Palette
 
+Giorgio de Chirico (1888-1978) was an Italian painter and a prominent
+figure in the metaphysical art movement, which he co-founded in the
+early 20th century. Born in Volos, Greece, de Chirico spent much of his
+childhood in Italy, where he developed a unique artistic style
+characterized by eerie, dreamlike landscapes and enigmatic figures. His
+works often feature classical architecture, long shadows, and a sense of
+stillness, evoking a sense of mystery and introspection.
+
+![](figure/giorgiodechirico.jpeg)
+
 ## Installation
 
 ``` r
