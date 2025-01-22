@@ -2,6 +2,11 @@
 
 # ArtPalette
 
+`ArtPalette` is an R package designed to provide different color
+palettes based of famous painting. This package allows users to easily
+access and utilize color schemes derived from the works of renowned
+artists.
+
 ## Giorgio De Chirico Palette
 
 Giorgio de Chirico (1888-1978) was an Italian painter and a prominent
@@ -13,6 +18,8 @@ works often feature classical architecture, long shadows, and a sense of
 stillness, evoking a sense of mystery and introspection.
 
 ![](figure/giorgiodechirico.jpeg)
+
+``` ![](figure/giorgiodechirico.jpeg)
 
 ## Installation
 
